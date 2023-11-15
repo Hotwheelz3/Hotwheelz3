@@ -1,6 +1,4 @@
-("first name "; "Michelle",
-"age","41",
-"greatful for", "Greatful for everyday I wake up",)
+
 
 
 - 👋 Hi, I’m @Hotwheelz 
